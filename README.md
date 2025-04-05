@@ -15,3 +15,8 @@
 ```txt
 📱 Kotlin & Android    ⚙️ Bash / Linux Internals    🔧 C Programming
 📦 Termux + VNC + X11    🌐 Static Sites (Jekyll, GitHub Pages)
+```
+## 📝Currently I am working on 
+```txt
+Making my own blog using github pages
+also working on an android app focused on networking 
